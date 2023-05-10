@@ -1,5 +1,5 @@
 # Fabrika
-
+Ссылка на netlify deploy: https://bespoke-cactus-c91d05.netlify.app
 ## Build Setup
 
 ```bash
